@@ -6,4 +6,11 @@ Has 2 cats!
 
 cat is my favorite animal!
 
+<<<<<<< HEAD
+new line goes here
+=======
+Favorite color is cerulean blue!!
+
+=======
 Favorite color is cerulean blue!!!
+>>>>>>> blue
